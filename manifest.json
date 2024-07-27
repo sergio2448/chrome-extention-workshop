@@ -25,5 +25,5 @@
   },
   "author": "sergio.arbeldst@gmail.com",
   "default_locale": "es",
-  "permissions": ["storage"]
+  "permissions": ["storage", "activeTab", "tabs"]
 }
