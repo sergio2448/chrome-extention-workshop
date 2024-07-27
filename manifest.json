@@ -11,9 +11,11 @@
       "128": "icon.png"
     }
   },
-  "icon": {
+  "icons": {
     "16": "icon.png",
     "48": "icon.png",
     "128": "icon.png"
-  }
+  },
+  "author": "sergio.arbeldst@gmail.com",
+  "default_locale": "es"
 }
