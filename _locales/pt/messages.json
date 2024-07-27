@@ -1,0 +1,11 @@
+{
+  "appName": {
+    "message": "Meu App"
+  },
+  "appDescription": {
+    "message": "Descrição do meu aplicativo."
+  },
+  "defaultTitle": {
+    "message": "Olá, Mundo!"
+  }
+}
