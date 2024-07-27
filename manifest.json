@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "Library Extension",
+  "version": "0.0.1",
+  "description": "This an awesome extension that helps you find books in your local library.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  },
+  "icon": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
