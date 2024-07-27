@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "__MSG_appName__",
   "version": "0.0.1",
-  "description": "This an awesome extension that helps you find books in your local library.",
+  "description": "__MSG__appDescription__",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
